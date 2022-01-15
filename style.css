@@ -139,6 +139,9 @@ footer{
     .sec1-div{
         width:100%;
     }
+    .sec1 img{
+        margin-top: 50px;
+    }
     .sec1-p{
         width: 100%;
     }
